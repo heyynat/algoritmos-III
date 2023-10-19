@@ -13,7 +13,6 @@ public class Vehicle {
         this.price = price;
     }
 
-    // Getters and setters
     public String getMake() {
         return make;
     }
